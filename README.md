@@ -1,4 +1,4 @@
-# Machine-Learning--Logistic-Regression
+# Logistic-Regression-Model
 This project was part of Python for Data Science and Machine Learning Bootcamp on Udemy by Jose Portilla. 
 
 The main goal of the project is to learn and apply a Logistic Regression Machine learning model on a ficticious data set. Here below is the project description in detail:
